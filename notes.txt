@@ -1,0 +1,7 @@
+
+To do
+
+1. Add relevent arguments sugested in the ticket. 
+
+2. Update to have Lukes plot but my generelized code.
+
